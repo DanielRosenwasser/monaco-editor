@@ -1,6 +1,6 @@
 /*!-----------------------------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
- * monaco-typescript version: 2.0.1(efa3e8fdaad791450c89424995e0805797a33668)
+ * monaco-typescript version: 2.0.1(5506f3bf4ac10aebc1f71e964641074cf7a147d2)
  * Released under the MIT license
  * https://github.com/Microsoft/monaco-typescript/blob/master/LICENSE.md
  *-----------------------------------------------------------------------------*/
