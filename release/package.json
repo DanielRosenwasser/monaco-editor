@@ -23,7 +23,8 @@
     "http-server": "^0.9.0",
     "monaco-css": "1.2.1",
     "monaco-editor-core": "0.7.3",
-    "monaco-typescript": "github:mhegazy/monaco-typescript#release-3.0",
+    "monaco-typescript": "github:DanielRosenwasser/monaco-typescript#old-release-3.1",
+    "natives": "^1.1.5",
     "rimraf": "^2.5.2",
     "typedoc": "^0.5.0",
     "uncss": "^0.14.1"
