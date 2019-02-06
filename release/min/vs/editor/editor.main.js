@@ -78,7 +78,7 @@ t instanceof D.OneReference&&(e._revealReference(t),e._onDidSelectReference.fire
 
 /*!-----------------------------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
- * monaco-typescript version: 2.0.1(a3d820dae06cf39ae34433092e561f7e332d16f5)
+ * monaco-typescript version: 2.0.1(50bcd692c552179324c50660082c23a306e249fb)
  * Released under the MIT license
  * https://github.com/Microsoft/monaco-typescript/blob/master/LICENSE.md
  *-----------------------------------------------------------------------------*/

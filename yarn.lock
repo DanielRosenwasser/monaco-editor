@@ -1871,9 +1871,9 @@ monaco-editor-core@0.7.3:
   resolved "https://registry.yarnpkg.com/monaco-editor-core/-/monaco-editor-core-0.7.3.tgz#3283f6cd2b59a368119b2d396c7000e6e8887bf1"
   integrity sha1-MoP2zStZo2gRmy05bHAA5uiIe/E=
 
-"monaco-typescript@github:DanielRosenwasser/monaco-typescript#old-release-3.2":
+"monaco-typescript@github:DanielRosenwasser/monaco-typescript#old-release-3.3":
   version "2.0.1"
-  resolved "https://codeload.github.com/DanielRosenwasser/monaco-typescript/tar.gz/50bcd692c552179324c50660082c23a306e249fb"
+  resolved "https://codeload.github.com/DanielRosenwasser/monaco-typescript/tar.gz/b49dfd05ba56c05276ffda4ea99b165b57660125"
 
 ms@2.0.0:
   version "2.0.0"
