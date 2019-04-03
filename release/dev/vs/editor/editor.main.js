@@ -83835,7 +83835,7 @@ define(__m[505/*vs/editor/editor.main*/], __M([1/*require*/,0/*exports*/,160/*vs
 
 /*!-----------------------------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
- * monaco-typescript version: 2.0.1(50bcd692c552179324c50660082c23a306e249fb)
+ * monaco-typescript version: 2.0.1(b36d21dd62bb76bf4e8073ef8a1069312324ec2c)
  * Released under the MIT license
  * https://github.com/Microsoft/monaco-typescript/blob/master/LICENSE.md
  *-----------------------------------------------------------------------------*/
